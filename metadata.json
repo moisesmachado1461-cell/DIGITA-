@@ -1,0 +1,8 @@
+{
+  "name": "Datilogia - Prática e Treino de Digitação",
+  "description": "Plataforma interativa para praticar digitação e melhorar velocidade e precisão de escrita com cronômetro, múltiplos níveis e métricas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
